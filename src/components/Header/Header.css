@@ -1,0 +1,33 @@
+/*************
+General Elements
+**************/
+
+/*************
+Images
+**************/
+
+/*************
+Buttons / Links
+**************/
+
+/*************
+Typography
+**************/
+
+/*************
+Layout
+**************/
+
+.header {
+  width: 100%;
+}
+
+.header-container {
+  width: 90%;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+/*************
+Media Queries
+**************/
